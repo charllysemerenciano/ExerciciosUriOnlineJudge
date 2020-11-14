@@ -5,5 +5,5 @@
 	🚧 Exercícios 🚀 em produção... 🚧
 </h4>
 <h2 align="center">
-    _Exercicios em Java da Plataforma URI Online Judge_
+    Exercicios em Java da Plataforma URI Online Judge
 </h2>
