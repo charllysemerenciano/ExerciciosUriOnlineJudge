@@ -4,4 +4,6 @@
 <h4 align="center"> 
 	🚧 Exercícios 🚀 em produção... 🚧
 </h4>
-Exercicios em Java da Plataforma URI Online Judge
+<h2 align="center">
+    _Exercicios em Java da Plataforma URI Online Judge_
+</h2>
