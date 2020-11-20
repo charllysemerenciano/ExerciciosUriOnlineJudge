@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  * @Author Charllys Emerenciano
- * @create 19/11/2020 22:41
+ * @create 19/11/2020 22:42
  */
 public class Consumo {
     public static void main(String[] args) {
